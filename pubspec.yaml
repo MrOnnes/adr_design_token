@@ -1,12 +1,12 @@
-name: adira_design_token
+name: adr_design_token
 description: A new Flutter project.
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.2.36+1
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
+  sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
   flutter: # Required for every Flutter project
