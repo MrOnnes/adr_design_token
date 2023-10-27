@@ -1,0 +1,67 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "TOKENS",
+        ["INSTALLATION", "tokens", "typography", "size", "definition"]
+      ],
+      [
+        "COMPONENTS",
+        [
+          "Accordion",
+          "Alert",
+          "Badge",
+          "Breadcrumb",
+          "button-comp",
+          "Button",
+          "Cards",
+          "carousel",
+          "dropdown",
+          "field",
+          "footer",
+          "navs-tabs",
+          "navbar",
+          "pagination",
+          "table",
+          "tags",
+          "topbar"
+        ]
+      ],
+      ["Forms", ["select", "checks-radios", "input-group"]],
+      [
+        "Utilities",
+        [
+          "Border",
+          "Clearfix",
+          "Close icon",
+          "Colors",
+          "Display",
+          "Color",
+          "Embed",
+          "Flex",
+          "Float",
+          "Image replacement",
+          "Overflow",
+          "Position",
+          "Ratio",
+          "Screenreaders",
+          "Shadows",
+          "Stack",
+          "Strecthed-Link",
+          "Text-truncation",
+          "Vertical-align",
+          "Visually-hidden",
+          "VR"
+        ]
+      ],
+      ["INFRASTRUCTURE", ["sd-input", "doc-layout"]]
+    ]
+  },
+  "dependencies": {
+    "autoInstall": false
+  },
+  "doc": {
+    "markdownEngine": "mdjs"
+  }
+}
